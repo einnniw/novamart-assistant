@@ -1,0 +1,5 @@
+# External dependencies for the NovaMart Assistant project
+#
+# openai: Official Python SDK for OpenAI's API.
+# Needed to send chat completions with tool/function calling support (lookup_order).
+openai>=1.0.0

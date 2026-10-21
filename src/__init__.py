@@ -1,0 +1,1 @@
+"""NovaMart Assistant core package."""
